@@ -26,4 +26,4 @@ Following are the source code images of the model.
 
 ## Notebook
 Find the notebook below as follows:
-![alt text](https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Fraud_Email.ipynb?raw=true)
+https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Fraud_Email.ipynb
