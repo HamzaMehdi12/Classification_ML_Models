@@ -21,3 +21,5 @@ Following are the source code images of the model.
 ![alt text](https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Fraud_em.png?raw=true)
 ## Spam Email
 ![alt text](https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Email%20Scam.png?raw=true)
+## Not Spam Email
+![alt text](https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Not%20Scam.png?raw=true)
