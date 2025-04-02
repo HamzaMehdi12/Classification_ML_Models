@@ -17,5 +17,7 @@ Key libraries: pandas, sklearn, tkinter, PyPDF2, seaborn
 Note: High accuracy suggests need for real-world validation
 
 Following are the source code images of the model.
-## Spam Email
+## Model Accuracy
 ![alt text](https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Fraud_em.png?raw=true)
+## Spam Email
+![alt text](https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Email Scam.png?raw=true)
