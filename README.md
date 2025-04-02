@@ -20,4 +20,4 @@ Following are the source code images of the model.
 ## Model Accuracy
 ![alt text](https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Fraud_em.png?raw=true)
 ## Spam Email
-![alt text](https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Email Scam.png?raw=true)
+![alt text](https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Email%20Scam.png?raw=true)
