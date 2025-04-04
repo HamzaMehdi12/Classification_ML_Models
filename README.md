@@ -1,4 +1,7 @@
-# Fraud_Email_Detection
+# Objective
+This file and folder holds the below mentioned files for classificaiton exaamples using machine learning and deep learning models.
+
+## Fraud_Email_Detection using Naive Bayes
 Fraudulent Email Span vs Not Spam detection and classification.
 
 
@@ -17,15 +20,18 @@ Key libraries: pandas, sklearn, tkinter, PyPDF2, seaborn
 Note: High accuracy suggests need for real-world validation
 
 Following are the source code images of the model.
-## Model Accuracy
+### Model Accuracy
 ![alt text](https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Fraud_Email_Detector/Fraud_em.png?raw=true)
-## Spam Email
+### Spam Email
 ![alt text](https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Fraud_Email_Detector/Email%20Scam.png?raw=true)
-## Not Spam Email
+### Not Spam Email
 ![alt text](https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Fraud_Email_Detector/Not%20Scam.png?raw=true)
-## Classification model
+### Classification model
 ![alt text](https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Fraud_Email_Detector/Email_Spam_Classification.png?raw=true)
 
-## Notebook
+### Notebook
 Find the notebook below as follows:
 https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Fraud_Email_Detector/Fraud_Email.ipynb
+
+
+## Animal Kingdom clssification using Naive Bayes
