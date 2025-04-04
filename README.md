@@ -18,12 +18,14 @@ Note: High accuracy suggests need for real-world validation
 
 Following are the source code images of the model.
 ## Model Accuracy
-![alt text](https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Fraud_em.png?raw=true)
+![alt text](https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Fraud_Email_Detector/Fraud_em.png?raw=true)
 ## Spam Email
-![alt text](https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Email%20Scam.png?raw=true)
+![alt text](https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Fraud_Email_Detector/Email%20Scam.png?raw=true)
 ## Not Spam Email
-![alt text](https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Not%20Scam.png?raw=true)
+![alt text](https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Fraud_Email_Detector/Not%20Scam.png?raw=true)
+## Classification model
+![alt text](https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Fraud_Email_Detector/Email_Spam_Classification.png?raw=true)
 
 ## Notebook
 Find the notebook below as follows:
-https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Fraud_Email.ipynb
+https://github.com/HamzaMehdi12/Fraud_Email_Detection/blob/main/Fraud_Email_Detector/Fraud_Email.ipynb
