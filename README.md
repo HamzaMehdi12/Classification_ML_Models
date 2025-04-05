@@ -27,4 +27,5 @@ Find the notebook below as follows:
 https://github.com/HamzaMehdi12/Classification_ML_Models/blob/main/Fraud%20Email%20Detector/Fraud_Email_MNB.ipynb
 
 
-## Animal Kingdom clssification using Naive Bayes
+## Fraud Email Using BERT Classification
+
