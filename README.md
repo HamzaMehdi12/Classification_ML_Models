@@ -20,7 +20,7 @@ Following are the source code images of the model.
 ### Spam Email
 ![alt text](https://github.com/HamzaMehdi12/Classification_ML_Models/blob/main/Fraud%20Email%20Detector/Fraud_Detection.png?raw=true)
 ### Not Spam Email
-![alt text](https://github.com/HamzaMehdi12/Classification_ML_Models/blob/main/Fraud%20Email%20Detector/Not_Spam.pngraw=true)
+![alt text](https://github.com/HamzaMehdi12/Classification_ML_Models/blob/main/Fraud%20Email%20Detector/Not_Spam.png?raw=true)
 
 ### Notebook
 Find the notebook below as follows:
